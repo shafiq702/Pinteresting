@@ -1,0 +1,24 @@
+$body-bg: #34495e;
+$navbar-inverse-bg: #ecf0f1; 
+$navbar-inverse-link-color: #2c3e50;
+$navbar-inverse-brand-color: #c0392b;
+$navbar-inverse-brand-hover-color: #c0392b; 
+$navbar-inverse-link-hover-color: #c0392b;
+$headings-color: #ecf0f1;
+$text-color: #ecf0f1;
+$btn-danger-bg: #c0392b; 	
+$jumbotron-heading-color: #2c3e50;
+
+@import 'bootstrap';
+
+.center {
+	text-align: center;	
+}
+
+.navbar-header {
+	font-weight: bold;
+}
+
+.navbar-link {
+	font-weight: bold;
+}
